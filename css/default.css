@@ -3,7 +3,11 @@ body {
     font-size: 16px;
     font-family: "Computer Modern Serif";
     margin: 0px auto 0px auto;
-    max-width: 600px;
+    max-width: 800px;
+}
+
+a {
+    text-decoration: none;
 }
 
 ul {
@@ -27,15 +31,23 @@ div#header {
     padding: 12px 0px 12px 0px;
 }
 
+div#logo {
+    float: left;
+}
+
+div#logo img {
+    float: left;
+}
+
 div#logo a {
     color: black;
-    float: left;
 //    font-size: 18px;
 //    font-weight: bold;
     text-decoration: none;
 }
 
 div#content {
+    clear: both;
     text-align: justify;
 }
 
@@ -92,4 +104,8 @@ div.info {
 
 .deemph {
     color: #999;
+}
+
+.more {
+    text-align: right;
 }
