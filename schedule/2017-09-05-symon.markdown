@@ -1,0 +1,24 @@
+---
+title: Hybrid type-logical grammars, first-order linear logic and the descriptive inadequacy of lambda grammars
+author: Symon Stevens Guille
+---
+
+Symon will lead discussion of ["Hybrid type-logical grammars,
+first-order linear logic and the descriptive inadequacy of lambda
+grammars" by Richard Moot][1]
+
+Symon says:
+
+> I'll be leading a discussion on Richard Moot’s paper embedding
+> HTLCG and the Displacement calculus in First Order Linear
+> Logic. Please read as much of the paper as you can. There likely
+> won’t be a handout and I will rely on active participation;
+> maximally it will be sparse and focus on major theorems. There are
+> certain things I want to emphasize but others may have great
+> insight as well. Unlike last week, this will be a discussion not a
+> paper presentation. Attached is the literature; read as much as
+> possible (it’s long) but relax—we won’t cover it all.
+
+[1]: https://arxiv.org/pdf/1405.6678.pdf "Hybrid type-logical
+grammars, first-order linear logic and the descriptive inadequacy of
+lambda grammars"
