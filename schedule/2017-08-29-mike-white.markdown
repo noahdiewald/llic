@@ -1,5 +1,6 @@
 ---
-title: Mike White Practice Talk
+title: Parsing with Dynamic Continuized CCG
+author: Mike White
 ---
 
 Mike White will be giving a practice talk. The accompanying paper,
