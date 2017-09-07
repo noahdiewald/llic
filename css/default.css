@@ -57,7 +57,7 @@ div#content {
     text-align: justify;
 }
 
-div#news {
+div#news, table {
     clear: both;
     text-align: left;
 }
