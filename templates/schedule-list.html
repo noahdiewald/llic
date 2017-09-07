@@ -1,7 +1,12 @@
-<ul>
+<table>
+  <thead>
+    <tr><th>Date</th><th>Topic</th></tr>
+  </thead>
+  <tbody>
     $for(schedule)$
-        <li>
-            $date$ - <a href="$url$">$title$</a>
-        </li>
+        <tr>
+          <td>$date$</td><td><a href="$url$">$title$</a></td>
+        </tr>
     $endfor$
-</ul>
+  </tbody>
+</table>
