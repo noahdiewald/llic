@@ -1,0 +1,12 @@
+---
+title: Continuing discussion of Hybrid type-logical grammars, first-order linear logic and the descriptive inadequacy of lambda grammars
+author: Symon Stevens Guille
+---
+
+Symon will continue to lead discussion of ["Hybrid type-logical
+grammars, first-order linear logic and the descriptive inadequacy of
+lambda grammars" by Richard Moot][1]
+
+[1]: https://arxiv.org/pdf/1405.6678.pdf "Hybrid type-logical
+grammars, first-order linear logic and the descriptive inadequacy of
+lambda grammars"
