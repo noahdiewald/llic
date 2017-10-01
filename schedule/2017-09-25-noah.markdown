@@ -1,0 +1,10 @@
+---
+title: Continuing discussion of Aksënova et al (2016)
+author: Noah Diewald
+---
+
+Noah will continue to lead discussion of [Aksënova et al (2016)
+'Morphotactics as Tier-Based Strictly Local Dependencies'][1]
+
+[1]: http://www.aclweb.org/anthology/W/W16/W16-2019.pdf "Morphotactics
+as Tier-Based Strictly Local Dependencies"
