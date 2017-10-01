@@ -70,8 +70,8 @@ main = hakyll $ do
     match "index.html" $ do
         route idRoute
         compile $ do
-            schedule <- recentFirst . take 5 =<< loadAll "schedule/*"
-            posts <- recentFirst . take 5 =<< loadAll "posts/*"
+            schedule <- recentFirst . reverse . take 5 . reverse =<< loadAll "schedule/*"
+            posts <- recentFirst . reverse . take 5 . reverse =<< loadAll "posts/*"
             let indexCtx =
                     listField "schedule" postCtx (return schedule) `mappend`
                     listField "posts" postCtx (return posts) `mappend`
