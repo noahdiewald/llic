@@ -1,0 +1,12 @@
+---
+title: 'Discussion of Split-scope definites: Relative superlatives and Haddock descriptions by Dylan Bumford Part 2'
+author: Willy Cheung and Micheal White
+---
+
+Willy Cheung and Micheal White will lead part two of a two part
+discussion of [Split-scope definites: Relative superlatives and
+Haddock descriptions][1].
+
+[1]:
+http://dylanbumford.com/files/bumford-lp2017.pdf
+"Split-scope definites: Relative superlatives and Haddock descriptions"
