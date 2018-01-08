@@ -1,0 +1,6 @@
+---
+title: Morphotactics with Position Class Graphs
+author: Noah Diewald
+---
+
+Noah Diewald will discuss his ongoing work on morphotactics.

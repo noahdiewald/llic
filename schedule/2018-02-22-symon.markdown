@@ -1,0 +1,12 @@
+---
+title: 'Discussion of On Constraint-Based Lambek Calculi by Jochen Doerre and Suresh Manandhar Part 2'
+author: Symon Stevens Guille
+---
+
+Symon Stevens Guille will lead part two of a two part discussion of
+[On Constraint-Based Lambek Calculi by Jochen Doerre and Suresh
+Manandhar][1].
+
+[1]:
+https://arxiv.org/abs/cmp-lg/9508008
+"On Constraint-Based Lambek Calculi"

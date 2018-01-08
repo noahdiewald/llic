@@ -1,0 +1,16 @@
+---
+title: 'Embedding HTLCG into LCG with Phenominators Part 2'
+author: Jordan Needle
+---
+
+Jordan Needle will continue to present his ongoing research of
+embedding the directional slashes of [Hybrid Type-Logical Categorial
+Grammar][1] into [Linear Categorial Grammar with phenominators][2].
+
+[1]:
+https://www.asc.ohio-state.edu/levine.1/publications/KL_Pseudogapping-LI-version.pdf
+"Pseudogapping as pseudo-VP ellipsis"
+
+[2]:
+http://www.u.tsukuba.ac.jp/~kubota.yusuke.fn/cg2015-proceedings.pdf#page=165
+Coordination in Linear Categorial Grammar with Phenogrammatical Subtyping
