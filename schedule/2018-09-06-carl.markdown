@@ -1,0 +1,17 @@
+---
+title: 'Discussion of Landman (1989) Groups, II'
+author: Carl Pollard
+---
+
+On August 30th and September 6th, Carl Pollard will lead discussion on
+[Landman (1989) Groups, I][1] and [Landman (1989) Groups, II][2],
+which deal with Landman's theory of plurals.
+
+[1]:
+http://dx.doi.org/10.1007/BF00627774
+"Landman (1989) Groups, I"
+
+[2]:
+http://dx.doi.org/10.1007/BF00632603
+"Landman (1989) Groups, II"
+
