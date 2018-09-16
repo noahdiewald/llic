@@ -1,17 +1,12 @@
 ---
-title: 'Discussion of Landman (1989) Groups, I'
+title: 'Discussion of Link (2002) The logcial analysis of plurals and mass terms'
 author: Carl Pollard
 ---
 
 On August 30th and September 6th, Carl Pollard will lead discussion on
-[Landman (1989) Groups, I][1] and [Landman (1989) Groups, II][2],
-which deal with Landman's theory of plurals.
+Link, Godehard. "The logical analysis of plurals and mass terms: A
+lattice-theoretical approach." *Formal semantics: The essential
+readings* (2002): 127-146.
 
-[1]:
-http://dx.doi.org/10.1007/BF00627774
-"Landman (1989) Groups, I"
-
-[2]:
-http://dx.doi.org/10.1007/BF00632603
-"Landman (1989) Groups, II"
-
+* [Plural Theory in HOL (slides)](/files/plurals.pdf)
+* [Plural Theory in HOL (handout)](/files/pluralh.pdf)
