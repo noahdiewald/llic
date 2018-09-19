@@ -7,8 +7,8 @@ On September 13th and September 20th, Carl Pollard will lead
 discussion on [Landman (1989) Groups, I][1], which deals with
 Landman's theory of plurals.
 
-* [More Plural Theory in HOL (slides)](/files/moreplurals.pdf)
-* [More Plural Theory in HOL (handout)](/files/morepluralh.pdf)
+* [Even More Plural Theory in HOL (slides)](/files/evenmores.pdf)
+* [Even More Plural Theory in HOL (handout)](/files/evenmoreh.pdf)
 
 [1]:
 http://dx.doi.org/10.1007/BF00627774
