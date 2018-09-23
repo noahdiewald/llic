@@ -1,12 +1,12 @@
 ---
-title: 'Proof Nets'
+title: "Yasavul, Murat (2017) Questions and Answers in K'iche'"
 author: Symon Stevens-Guille
 ---
 
-On October 4th and 11th, Symon Stevens-Guille will provide an
-introduction to proof nets. Readings will include portions of [Richard
-Moot's 2002 dissertation][1].
+On October 4th and 11th, Symon Stevens-Guille will lead discussion of
+[Murat Yasavul's dissertation, "Questions and Answers in
+K'iche'"][1].
 
 [1]:
-https://dspace.library.uu.nl/bitstream/handle/1874/613/full.pdf?sequence=1
-"Proof Nets for Linguistic Analysis"
+https://etd.ohiolink.edu/!etd.send_file?accession=osu1492691106586075&disposition=inline
+"Questions and Answers in K'iche'"
